@@ -1,12 +1,12 @@
 # Wednesdays at Little Suzys BBQ 
 
 ## Sets
-[Gig A](#Gig-A)
-[Gig B](#Gig-B)
-[Gig C](#Gig-C)
-[Gig D](#Gig-D)
-[James Extras](#James)
-[Butch](#Butch) 
+* [Gig A](#Gig-A)
+* [Gig B](#Gig-B)
+* [Gig C](#Gig-C)
+* [Gig D](#Gig-D)
+* [James Extras](#James)
+* [Butch](#Butch) 
 
 ## Gig A
 
