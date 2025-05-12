@@ -1,12 +1,12 @@
 # Wednesdays at Little Suzys BBQ 
 
-## Sets
-* [Gig A](#Gig-A)
-* [Gig B](#Gig-B)
-* [Gig C](#Gig-C)
-* [Gig D](#Gig-D)
-* [James Extras](#James)
-* [Butch](#Butch) 
+## Lists
+* [Gig A](#gig-a)
+* [Gig B](#gig-b)
+* [Gig C](#gig-c)
+* [Gig D](#gig-d)
+* [James Extras](#james)
+* [Butch](#butch) 
 
 ## Gig A
 
@@ -29,7 +29,7 @@
 * Them changes 
 * Man's world
 
-[Back to top](#Sets)
+[Back to top](#lists)
 
 ## Gig B
 
@@ -52,7 +52,7 @@
 * Hold on
 * The Ghetto
 
-[Back to top](#Sets)
+[Back to top](#lists)
 
 ## Gig C
 
@@ -77,7 +77,7 @@
 * Night time is the right time
 * Funky Broadway
 
-[Back to top](#Sets)
+[Back to top](#lists)
 
 ## Gig D
 * Instrumental 
@@ -101,7 +101,7 @@
 * Walking the dog
 * Georgia- F
 
-[Back to top](#Sets)
+[Back to top](#lists)
 
 ## James
 * Dock of the bay - G
@@ -110,7 +110,7 @@
 * Tennessee Whiskey
 * I can see clearly
 
-[Back to top](#Sets)
+[Back to top](#lists)
 
 ## Butch
 * I shot the Sheriff [Gm]
@@ -123,4 +123,4 @@
 * Kiss [A]
 * Purple Rain [Bb]
 
-[Back to top](#Sets)
+[Back to top](#lists)
