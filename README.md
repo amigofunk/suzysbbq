@@ -1,6 +1,14 @@
-# suzysbbq
+# Wednesdays at Little Suzys BBQ 
 
-## Set A
+## Sets
+[Gig A](#Gig-A)
+[Gig B](#Gig-B)
+[Gig C](#Gig-C)
+[Gig D](#Gig-D)
+[James Extras](#James)
+[Butch](#Butch) 
+
+## Gig A
 
 * Instrumental
 * Bernd 2 or 3
@@ -20,6 +28,8 @@
 * Breakdown
 * Them changes 
 * Man's world
+
+[Back to top](#Sets)
 
 ## Gig B
 
@@ -41,6 +51,8 @@
 * Ain't nobody's business 
 * Hold on
 * The Ghetto
+
+[Back to top](#Sets)
 
 ## Gig C
 
@@ -65,6 +77,8 @@
 * Night time is the right time
 * Funky Broadway
 
+[Back to top](#Sets)
+
 ## Gig D
 * Instrumental 
 * Bernd 2/3
@@ -87,10 +101,26 @@
 * Walking the dog
 * Georgia- F
 
+[Back to top](#Sets)
 
-## James Extras:
+## James
 * Dock of the bay - G
 * Knockin on heavens door - G
 * Just the two of us - E 
 * Tennessee Whiskey
 * I can see clearly
+
+[Back to top](#Sets)
+
+## Butch
+* I shot the Sheriff [Gm]
+* No Woman No Cry [C]
+* I just Called to Say I Love You [Db]
+* Me & Mrs Jones [Eb]
+* Just the 2 of Us [F]
+* The Thrill is Gone [Am]
+* Get Down On It [Em]
+* Kiss [A]
+* Purple Rain [Bb]
+
+[Back to top](#Sets)
