@@ -12,45 +12,45 @@
 
 * Instrumental
 * Bernd 2 or 3
-* Use me - E
-* Fly like an Eagle - Am
-* Can I change my mind
-* Lickin stick
+* Use me [E]
+* Fly like an Eagle [Am]
+* Can I change my mind [B]
+* Lickin stick [A]
 * Just a little bit
-* Why I sing the blues
-[BREAK]
-* Instrumental - Cissy Strut
+* Why I sing the blues [A]
+* [BREAK]
+* Cissy Strut [C]
 * Bernd 2/3
-* Superstition - D
-* Bring it home - G
-* Stand by me
-* Don't cry no more
-* Breakdown
-* Them changes 
-* Man's world
+* Superstition [D]
+* Bring it home [G]
+* Stand by me [G]
+* Don't cry no more [C]
+* Breakdown [D]
+* Them changes [E]
+* Man's world [C]
 
 [Back to top](#lists)
 
 ## Gig B
 
-* Tighten up
+* Tighten up [E]
 * Bernd 2/3
-* Cold shot - Am
-* Just kissed my baby - G
-* Thrill is gone
+* Cold shot [Am]
+* Just kissed my baby [G]
+* Thrill is gone [Am]
 * Soul fixing man
-* Funky Broadway 
-* Green grass
-[BREAK]
+* Funky Broadway [E]
+* Green grass [C]
+* [BREAK]
 * Instrumental - Put it where you want it?
 * Bernd 2/3
-* Last 2 dollars - Am
-* Papa was a Rolling Stone - Am
-* Woman across the river
+* Last 2 dollars [Am]
+* Papa was a Rolling Stone [Am]
+* Woman across the river [Bb]
 * Just a little bit
-* Ain't nobody's business 
+* Ain't nobody's business [G]
 * Hold on
-* The Ghetto
+* The Ghetto [Am]
 
 [Back to top](#lists)
 
@@ -58,24 +58,24 @@
 
 * Instrumental
 * Bernd 2/3
-* What's going on - E
+* What's going on [E]
 * One way out 
-* Black Magic Woman 
-* Sex Machine
-* Doing it to death
-* Please, please, please
-* Something is wrong with my baby
-[BREAK]
+* Black Magic Woman [Am]
+* Sex Machine [D]
+* Doing it to death [D]
+* Please, please, please [F]
+* Something is wrong with my baby [B]
+* [BREAK]
 * Instrumental 
 * Bernd 2/3
-* Lovely day - E
-* Ain't no sunshine - Am
-* Stand by me
-* I feel good
+* Lovely day [E]
+* Ain't no sunshine [Am]
+* Stand by me [G]
+* I feel good [C]
 * Luther's Blues
 * It's a blues world
 * Night time is the right time
-* Funky Broadway
+* Funky Broadway [E]
 
 [Back to top](#lists)
 
@@ -84,30 +84,30 @@
 * Bernd 2/3
 * On Broadway 
 * Last 2 Dollars or Do it again
-* Try me
-* Brand new bag
-* Cold sweat
+* Try me [C]
+* Brand new bag [Eb]
+* Cold sweat [D]
 * Sweet 16
-* All blues
-[BREAK]
+* All blues [G]
+* [BREAK]
 * Instrumental - Turtle walk?
 * Bernd 2/3
 * Inner city blues 
 * Bad sign or Higher and higher
-* Ain't nobody's business 
+* Ain't nobody's business [G]
 * Soul man
 * Diggin on JB
 * Sweet home Chicago
 * Walking the dog
-* Georgia- F
+* Georgia [F]
 
 [Back to top](#lists)
 
 ## James
-* Dock of the bay - G
-* Knockin on heavens door - G
-* Just the two of us - E 
-* Tennessee Whiskey
+* Dock of the bay [G]
+* Knockin on heavens door [G]
+* Just the two of us [E]
+* Tennessee Whiskey [A]
 * I can see clearly
 
 [Back to top](#lists)
