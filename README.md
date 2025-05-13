@@ -5,8 +5,9 @@
 * [Gig B](#gig-b)
 * [Gig C](#gig-c)
 * [Gig D](#gig-d)
-* [James Extras](#james)
+* [James](#james)
 * [Butch](#butch) 
+* [Mike](#mike) 
 
 ## Gig A
 
@@ -108,7 +109,7 @@
 * Knockin on heavens door [G]
 * Just the two of us [E]
 * Tennessee Whiskey [A]
-* I can see clearly
+* I can see clearly [C]
 
 [Back to top](#lists)
 
@@ -123,5 +124,12 @@
 * Kiss [A]
 * Purple Rain [Bb]
 * Another Star [F#m]
+
+[Back to top](#lists)
+
+## Mike
+* The Weight [A]
+* Have You Ever Seen The Rain [Bb/A]
+* Dance the Night Away [E]
 
 [Back to top](#lists)
