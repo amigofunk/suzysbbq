@@ -122,5 +122,6 @@
 * Get Down On It [Em]
 * Kiss [A]
 * Purple Rain [Bb]
+* Another Star [F#m]
 
 [Back to top](#lists)
