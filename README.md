@@ -19,7 +19,7 @@
 * Lickin stick [A]
 * Just a little bit
 * Why I sing the blues [A]
-* [BREAK]
+* --[BREAK]--
 * Cissy Strut [C]
 * Bernd 2/3
 * Superstition [D]
@@ -42,7 +42,7 @@
 * Soul fixing man
 * Funky Broadway [E]
 * Green grass [C]
-* [BREAK]
+* --[BREAK]--
 * Instrumental - Put it where you want it?
 * Bernd 2/3
 * Last 2 dollars [Am]
@@ -66,7 +66,7 @@
 * Doing it to death [D]
 * Please, please, please [F]
 * Something is wrong with my baby [B]
-* [BREAK]
+* --[BREAK]--
 * Instrumental 
 * Bernd 2/3
 * Lovely day [E]
@@ -90,7 +90,7 @@
 * Cold sweat [D]
 * Sweet 16
 * All blues [G]
-* [BREAK]
+* --[BREAK]--
 * Instrumental - Turtle walk?
 * Bernd 2/3
 * Inner city blues 
