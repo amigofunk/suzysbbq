@@ -7,6 +7,7 @@
 * [Gig D](#gig-d)
 * [James](#james)
 * [Butch](#butch) 
+* [Tyrone](#tyrone) 
 * [Mike](#mike) 
 
 ## Gig A
@@ -127,9 +128,16 @@
 
 [Back to top](#lists)
 
+## Tyrone
+* Use me [E]
+* The Dock Of The Bay [G]
+* Stand By Me [G]
+
+[Back to top](#lists)
+
 ## Mike
 * The Weight [A]
-* Have You Ever Seen The Rain [Bb/A]
+* Have You Ever Seen The Rain [Bb]
 * Dance the Night Away [E]
 
 [Back to top](#lists)
