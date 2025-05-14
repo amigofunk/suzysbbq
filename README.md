@@ -95,7 +95,7 @@
 * Instrumental - Turtle walk?
 * Bernd 2/3
 * Inner city blues [Em]
-* Bad sign [C#] or Higher and higher
+* Bad sign [C#] or Higher and higher [B]
 * Ain't nobody's business [G]
 * Soul man
 * Diggin on JB
