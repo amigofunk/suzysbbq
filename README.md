@@ -18,7 +18,7 @@
 * Fly like an Eagle [Am]
 * Can I change my mind [B]
 * Lickin stick [A]
-* Just a little bit
+* Just a little bit [G]
 * Why I sing the blues [A]
 * --[BREAK]--
 * Cissy Strut [C]
@@ -40,7 +40,7 @@
 * Cold shot [Am]
 * Just kissed my baby [G]
 * Thrill is gone [Am]
-* Soul fixing man
+* Soul fixing man [Bb]
 * Funky Broadway [E]
 * Green grass [C]
 * --[BREAK]--
@@ -61,7 +61,7 @@
 * Instrumental
 * Bernd 2/3
 * What's going on [E]
-* One way out 
+* One way out [G]
 * Black Magic Woman [Am]
 * Sex Machine [D]
 * Doing it to death [D]
@@ -74,7 +74,7 @@
 * Ain't no sunshine [Am]
 * Stand by me [G]
 * I feel good [C]
-* Luther's Blues
+* Luther's Blues [A]
 * It's a blues world
 * Night time is the right time
 * Funky Broadway [E]
@@ -84,8 +84,8 @@
 ## Gig D
 * Instrumental 
 * Bernd 2/3
-* On Broadway 
-* Last 2 Dollars or Do it again
+* On Broadway [Ab]
+* Last 2 Dollars [G] or Do it again [Em]
 * Try me [C]
 * Brand new bag [Eb]
 * Cold sweat [D]
@@ -95,12 +95,12 @@
 * Instrumental - Turtle walk?
 * Bernd 2/3
 * Inner city blues 
-* Bad sign or Higher and higher
+* Bad sign [C#] or Higher and higher
 * Ain't nobody's business [G]
 * Soul man
 * Diggin on JB
-* Sweet home Chicago
-* Walking the dog
+* Sweet home Chicago [C]
+* Walking the dog [A]
 * Georgia [F]
 
 [Back to top](#lists)
