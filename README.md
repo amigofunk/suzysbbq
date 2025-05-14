@@ -76,7 +76,7 @@
 * I feel good [C]
 * Luther's Blues [A]
 * It's a blues world
-* Night time is the right time
+* Night time is the right time [Ab]
 * Funky Broadway [E]
 
 [Back to top](#lists)
@@ -94,7 +94,7 @@
 * --[BREAK]--
 * Instrumental - Turtle walk?
 * Bernd 2/3
-* Inner city blues 
+* Inner city blues [Em]
 * Bad sign [C#] or Higher and higher
 * Ain't nobody's business [G]
 * Soul man
