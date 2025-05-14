@@ -111,6 +111,7 @@
 * Just the two of us [E]
 * Tennessee Whiskey [A]
 * I can see clearly [C]
+* Dont Cry no more [C]
 
 [Back to top](#lists)
 
@@ -125,6 +126,9 @@
 * Kiss [A]
 * Purple Rain [Bb]
 * Another Star [F#m]
+* Higher and Higher [A]
+* Knocking on heavens door [A]
+
 
 [Back to top](#lists)
 
@@ -132,6 +136,7 @@
 * Use me [E]
 * The Dock Of The Bay [G]
 * Stand By Me [G]
+* Use Me [E]
 
 [Back to top](#lists)
 
