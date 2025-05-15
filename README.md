@@ -35,6 +35,7 @@
 * Breakdown [D]
 * Them changes [E]
 * Man's world [C]
+
 [Back to top](#overview)
 
 ## Gig B
@@ -57,6 +58,7 @@
 * Ain't nobody's business [G]
 * Hold on
 * The Ghetto [Am]
+
 [Back to top](#overview)
 
 ## Gig C
@@ -81,6 +83,7 @@
 * It's a blues world [G]
 * Night time is the right time [Ab]
 * Funky Broadway [E]
+
 [Back to top](#overview)
 
 ## Gig D
@@ -104,6 +107,7 @@
 * Sweet home Chicago [C]
 * Walking the dog [A]
 * Georgia [F]
+
 [Back to top](#overview)
 
 # All songs
@@ -122,46 +126,48 @@
 * Tighten up [E] [YouTube]
 * Turtle walk [C] [YouTube]
 * Way back home [C] [YouTube]
+
 [Back to top](#overview)
 
 ## Tommie
 * Aint nobodys business [G] [YouTube](https://www.youtube.com/watch?v=EjDsaMUEhGA) 
-* All blues [G] [YouTube]
-* Baby can i change my mind [B] [YouTube]
+* All blues [G] [YouTube](https://www.youtube.com/watch?v=CJVPOXbsRTE)
+* Baby can i change my mind [B] [YouTube](https://www.youtube.com/watch?v=KBEaDbMNiLE)
 * Brand new bag [Eb] [YouTube]
 * Breakdown [D] [YouTube]
 * Cold sweat [D] [YouTube]
 * Diggin on james brown [X] [YouTube]
 * Doing it to death [D] [YouTube]
 * Dont cry no more [C] [YouTube]
-* Dont let the green grass fool you [C] [YouTube]
-* Funky broadway [E] [YouTube]
-* Georgia on my mind [F] [YouTube]
+* Dont let the green grass fool you [C] [YouTube](https://www.youtube.com/watch?v=-xEOfdqGCmY)
+* Funky broadway [E] [YouTube] (https://www.youtube.com/watch?v=8p7y293BdtI)
+* Georgia on my mind [F] [YouTube](https://www.youtube.com/watch?v=kVFuGIXUPe0)
 * Hi heel sneakers [X] [YouTube]
-* Hold on im comming [E] [YouTube]
-* I feel good (i got you) [C] [YouTube]<https://www.youtube.com/watch?v=U5TqIdff_DQ>
-* Its a blues world [G] [YouTube]
+* Hold on im comming [E] [YouTube](https://www.youtube.com/watch?v=6JElrEbAcwY)
+* I feel good (i got you) [C] [YouTube](https://www.youtube.com/watch?v=U5TqIdff_DQ)
+* Its a blues world [G] [YouTube](https://www.youtube.com/watch?v=c8UbvbyhTTo)
 * Just a little bit [G] [YouTube]
 * Lickin stick [A] [YouTube]
-* Lucille [A] [YouTube]
+* Lucille [A] [YouTube](https://www.youtube.com/watch?v=yjZtZye7aeI)
 * Luthers blues [A] [YouTube]
-* Night time is the right time [Bb] [YouTube]
+* Night time is the right time [Bb] [YouTube](https://www.youtube.com/watch?v=BTruv-lVoLk)
 * Please please please [F] [YouTube]
 * Same old blues [X] [YouTube]
-* Sex machine (get up) [D] [YouTube]
-* Soul fixing man [A] [YouTube]
+* Sex machine (get up) [D] [YouTube](https://www.youtube.com/watch?v=JOD-M7WZkZQ)
+* Soul fixing man [A] [YouTube](https://www.youtube.com/watch?v=V1oz3QLa5Tw)
 * Soul man [X] [YouTube]
-* Stand by me [G] [YouTube]
+* Stand by me [G] [YouTube](https://www.youtube.com/watch?v=hwZNL7QVJjE)
 * Sweet sixteen [X] [YouTube]
 * The ghetto [Am] [YouTube]
 * Them changes [E] [YouTube]
-* This is a mans world [C] [YouTube]
-* Thrill is gone [Am] [YouTube]
+* This is a mans world [C] [YouTube](https://www.youtube.com/watch?v=wd1-HM234DE)
+* Thrill is gone [Am] [YouTube](https://www.youtube.com/watch?v=kpC69qIe02E)
 * Try me [C] [YouTube]
-* Walking the dog [C] [YouTube]
-* When something is wrong with my baby [B] [YouTube]
+* Walking the dog [C] [YouTube](https://www.youtube.com/watch?v=7AmJBM9HbWE)
+* When something is wrong with my baby [B] [YouTube](https://www.youtube.com/watch?v=Dv5HLB2lNaE)
 * Why i sing the blues [A] [YouTube]
-* Woman across the river [Bb] [YouTube]
+* Woman across the river [Bb] [YouTube](https://www.youtube.com/watch?v=YC1sTJvOzWY)
+
 [Back to top](#overview)
 
 ## Bernd
@@ -170,6 +176,7 @@
 * I cant be satisfied [E] [YouTube]
 * Perpetual blues machine [A] [YouTube]
 * Real mother for you [F] [YouTube]
+
 [Back to top](#overview)
 
 ## James
@@ -204,6 +211,7 @@
 * Thrill is gone [Am] [YouTube]
 * Use me [E] [YouTube]
 * Whats going on [E] [YouTube]
+
 [Back to top](#overview)
 
 ## Butch
@@ -219,16 +227,19 @@
 * No woman no cry [C] [YouTube]
 * Purple rain [Bb] [YouTube]
 * The thrill is Gone [Am] [YouTube]
+
 [Back to top](#overview)
 
 ## Tyrone
 * Stand by me [G] [YouTube]
 * The dock of the bay [G] [YouTube]
 * Use me [E] [YouTube]
+
 [Back to top](#overview)
 
 ## Mike
 * Dance the night away [E] [YouTube]
 * Have you ever seen the rain [Bb] [YouTube]
 * The weight [A] [YouTube]
+
 [Back to top](#overview)
