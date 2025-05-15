@@ -16,7 +16,6 @@
 # Gig lists
 
 ## Gig A
-
 * Instrumental
 * Bernd 2 or 3
 * Use me [E]
@@ -39,7 +38,6 @@
 [Back to top](#overview)
 
 ## Gig B
-
 * Tighten up [E]
 * Bernd 2/3
 * Cold shot [Am]
@@ -62,7 +60,6 @@
 [Back to top](#overview)
 
 ## Gig C
-
 * Instrumental
 * Bernd 2/3
 * What's going on [E]
@@ -113,8 +110,8 @@
 # All songs
 
 ## Instrumental
-
 * All blues [G] [YouTube]
+* Back at the chicken shack [X] [YouTube]
 * Chitlins con carne [C] [YouTube]
 * Cissy strut [C] [YouTube]
 * Mercy mercy mercy [Bb] [YouTube]
@@ -140,9 +137,9 @@
 * Doing it to death [D] [YouTube]
 * Dont cry no more [C] [YouTube]
 * Dont let the green grass fool you [C] [YouTube](https://www.youtube.com/watch?v=-xEOfdqGCmY)
-* Funky broadway [E] [YouTube] (https://www.youtube.com/watch?v=8p7y293BdtI)
+* Funky broadway [E] [YouTube](https://www.youtube.com/watch?v=8p7y293BdtI)
 * Georgia on my mind [F] [YouTube](https://www.youtube.com/watch?v=kVFuGIXUPe0)
-* Hi heel sneakers [X] [YouTube]
+* Hi heel sneakers [G] [YouTube]
 * Hold on im comming [E] [YouTube](https://www.youtube.com/watch?v=6JElrEbAcwY)
 * I feel good (i got you) [C] [YouTube](https://www.youtube.com/watch?v=U5TqIdff_DQ)
 * Its a blues world [G] [YouTube](https://www.youtube.com/watch?v=c8UbvbyhTTo)
@@ -152,7 +149,7 @@
 * Luthers blues [A] [YouTube]
 * Night time is the right time [Bb] [YouTube](https://www.youtube.com/watch?v=BTruv-lVoLk)
 * Please please please [F] [YouTube]
-* Same old blues [X] [YouTube]
+* Same old blues [D] [YouTube]
 * Sex machine (get up) [D] [YouTube](https://www.youtube.com/watch?v=JOD-M7WZkZQ)
 * Soul fixing man [A] [YouTube](https://www.youtube.com/watch?v=V1oz3QLa5Tw)
 * Soul man [X] [YouTube]
@@ -180,7 +177,6 @@
 [Back to top](#overview)
 
 ## James
-
 * Aint no sunshine [Am] [YouTube]
 * Bad moon rising [C] [YouTube]
 * Born under a bad sign [C#] [YouTube]
