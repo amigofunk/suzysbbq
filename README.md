@@ -143,10 +143,11 @@
 * Hold on im comming [E] [YouTube](https://www.youtube.com/watch?v=6JElrEbAcwY)
 * I feel good (i got you) [C] [YouTube](https://www.youtube.com/watch?v=U5TqIdff_DQ)
 * Its a blues world [G] [YouTube](https://www.youtube.com/watch?v=c8UbvbyhTTo)
-* Just a little bit [G] [YouTube]
+* Just a little bit [Bb] [YouTube]
 * Lickin stick [A] [YouTube]
 * Lucille [A] [YouTube](https://www.youtube.com/watch?v=yjZtZye7aeI)
 * Luthers blues [A] [YouTube]
+* Next time you see me [A] [YouTube]
 * Night time is the right time [Bb] [YouTube](https://www.youtube.com/watch?v=BTruv-lVoLk)
 * Please please please [F] [YouTube]
 * Same old blues [D] [YouTube]
@@ -154,13 +155,15 @@
 * Soul fixing man [A] [YouTube](https://www.youtube.com/watch?v=V1oz3QLa5Tw)
 * Soul man [X] [YouTube]
 * Stand by me [G] [YouTube](https://www.youtube.com/watch?v=hwZNL7QVJjE)
-* Sweet sixteen [X] [YouTube]
+* Summertime [Am] [YouTube]
+* Sweet home chicago [C] [YouTube]
+* Sweet sixteen [Bb] [YouTube]
 * The ghetto [Am] [YouTube]
 * Them changes [E] [YouTube]
 * This is a mans world [C] [YouTube](https://www.youtube.com/watch?v=wd1-HM234DE)
 * Thrill is gone [Am] [YouTube](https://www.youtube.com/watch?v=kpC69qIe02E)
 * Try me [C] [YouTube]
-* Walking the dog [C] [YouTube](https://www.youtube.com/watch?v=7AmJBM9HbWE)
+* Walking the dog [A] [YouTube](https://www.youtube.com/watch?v=7AmJBM9HbWE)
 * When something is wrong with my baby [B] [YouTube](https://www.youtube.com/watch?v=Dv5HLB2lNaE)
 * Why i sing the blues [A] [YouTube]
 * Woman across the river [Bb] [YouTube](https://www.youtube.com/watch?v=YC1sTJvOzWY)
@@ -169,10 +172,45 @@
 
 ## Bernd
 * Black magic woman [Am] [YouTube]
+* Cant hold on much longer [E] [YouTube]
+* Cold cold feeling [G-] [YouTube]
+* Drown in my own tears [G] [YouTube]
+* Hi heel sneakers [E] [YouTube]
 * Hydramatic woman [D] [YouTube]
 * I cant be satisfied [E] [YouTube]
+* I feel so bad [E] [YouTube]
+* I feel so good [E] [YouTube]
+* I hear you knocking [E] [YouTube]
+* I need your love so bad [G] [YouTube]
+* Im trying [G] [YouTube]
+* Its a man down there [E] [YouTube]
+* Keep on loving me [G-] [YouTube]
+* Kiddio [A] [YouTube]
+* Kidney stew [G] [YouTube]
+* Kiss [A] [YouTube]
+* Lets work together [G] [YouTube]
+* Life is like that [G] [YouTube]
+* Little by little [E] [YouTube]
+* Lollipop mama [G] [YouTube]
+* Make up your mind [A] [YouTube]
+* No younger [A-] [YouTube]
 * Perpetual blues machine [A] [YouTube]
+* Rainin in my heart  [G] [YouTube]
+* Read way back [A] [YouTube]
 * Real mother for you [F] [YouTube]
+* Rock this house [G] [YouTube]
+* Route sixtysix [G] [YouTube]
+* Sches tuff [E] [YouTube]
+* Shes sweet [E] [YouTube]
+* Sugar coated love [E] [YouTube]
+* Summertime [Dm] [YouTubel]
+* T bone shuffle [G] [YouTube]
+* Think [E] [YouTube]
+* Trouble no more [E] [YouTube]
+* Wait on time [A] [YouTube]
+* Whipping post [E-] [YouTube]
+* You cant judge a book [E] [YouTube]
+* Youre humbugging me [E] [YouTube]
 
 [Back to top](#overview)
 
