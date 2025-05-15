@@ -130,7 +130,7 @@
 [Back to top](#overview)
 
 ## Tommie
-* Aint nobodys business [G]
+* Aint nobodys business [G] [YouTube](https://www.youtube.com/watch?v=EjDsaMUEhGA) 
 * All blues [G]
 * Baby can i change my mind [B]
 * Brand new bag [Eb]
@@ -139,31 +139,32 @@
 * Diggin on james brown 
 * Doing it to death [D]
 * Dont cry no more [C]
+* Dont let the green grass fool you [C]
 * Funky broadway [E]
-* Georgia [F]
-* Green grass [C]
+* Georgia on my mind [F]
 * Hi heel sneakers
-* Hold on
-* I feel good [C]
+* Hold on im comming [E]
+* I feel good (i got you) [C] yt: <https://www.youtube.com/watch?v=U5TqIdff_DQ>
 * Its a blues world [G]
 * Just a little bit [G]
 * Lickin stick [A]
+* Lucille [A]
 * Luthers blues [A]
-* Mans world [C]
-* Night time is the right time [Ab]
+* Night time is the right time [Bb]
 * Please please please [F]
 * Same old blues
-* Sex machine [D]
-* Something is wrong with my baby [B]
-* Soul fixing man [Bb]
+* Sex machine (get up) [D]
+* Soul fixing man [A]
 * Soul man
 * Stand by me [G]
 * Sweet sixteen 
 * The ghetto [Am]
 * Them changes [E]
+* This is a mans world [C]
 * Thrill is gone [Am]
 * Try me [C]
-* Walking the dog [A]
+* Walking the dog [C]
+* When something is wrong with my baby [B]
 * Why i sing the blues [A]
 * Woman across the river [Bb]
 
