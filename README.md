@@ -35,7 +35,6 @@
 * Breakdown [D]
 * Them changes [E]
 * Man's world [C]
-
 [Back to top](#overview)
 
 ## Gig B
@@ -58,7 +57,6 @@
 * Ain't nobody's business [G]
 * Hold on
 * The Ghetto [Am]
-
 [Back to top](#overview)
 
 ## Gig C
@@ -83,7 +81,6 @@
 * It's a blues world [G]
 * Night time is the right time [Ab]
 * Funky Broadway [E]
-
 [Back to top](#overview)
 
 ## Gig D
@@ -107,137 +104,131 @@
 * Sweet home Chicago [C]
 * Walking the dog [A]
 * Georgia [F]
-
 [Back to top](#overview)
 
 # All songs
 
 ## Instrumental
 
-* All blues [G]
-* Chitlins con carne [C]
-* Cissy strut [C]
-* Mercy mercy mercy [Bb]
-* Mo better blues [G]
-* Mr magic [C]
-* Put it where you want it [C]
-* The chicken [Bb]
-* The ghetto [Am]
-* Tighten up [E]
-* Turtle walk [C]
-* Way back home [C]
-
+* All blues [G] [YouTube]
+* Chitlins con carne [C] [YouTube]
+* Cissy strut [C] [YouTube]
+* Mercy mercy mercy [Bb] [YouTube]
+* Mo better blues [G] [YouTube]
+* Mr magic [C] [YouTube]
+* Put it where you want it [C] [YouTube]
+* The chicken [Bb] [YouTube]
+* The ghetto [Am] [YouTube]
+* Tighten up [E] [YouTube]
+* Turtle walk [C] [YouTube]
+* Way back home [C] [YouTube]
 [Back to top](#overview)
 
 ## Tommie
 * Aint nobodys business [G] [YouTube](https://www.youtube.com/watch?v=EjDsaMUEhGA) 
-* All blues [G]
-* Baby can i change my mind [B]
-* Brand new bag [Eb]
-* Breakdown [D]
-* Cold sweat [D]
-* Diggin on james brown 
-* Doing it to death [D]
-* Dont cry no more [C]
-* Dont let the green grass fool you [C]
-* Funky broadway [E]
-* Georgia on my mind [F]
-* Hi heel sneakers
-* Hold on im comming [E]
-* I feel good (i got you) [C] yt: <https://www.youtube.com/watch?v=U5TqIdff_DQ>
-* Its a blues world [G]
-* Just a little bit [G]
-* Lickin stick [A]
-* Lucille [A]
-* Luthers blues [A]
-* Night time is the right time [Bb]
-* Please please please [F]
-* Same old blues
-* Sex machine (get up) [D]
-* Soul fixing man [A]
-* Soul man
-* Stand by me [G]
-* Sweet sixteen 
-* The ghetto [Am]
-* Them changes [E]
-* This is a mans world [C]
-* Thrill is gone [Am]
-* Try me [C]
-* Walking the dog [C]
-* When something is wrong with my baby [B]
-* Why i sing the blues [A]
-* Woman across the river [Bb]
-
+* All blues [G] [YouTube]
+* Baby can i change my mind [B] [YouTube]
+* Brand new bag [Eb] [YouTube]
+* Breakdown [D] [YouTube]
+* Cold sweat [D] [YouTube]
+* Diggin on james brown [X] [YouTube]
+* Doing it to death [D] [YouTube]
+* Dont cry no more [C] [YouTube]
+* Dont let the green grass fool you [C] [YouTube]
+* Funky broadway [E] [YouTube]
+* Georgia on my mind [F] [YouTube]
+* Hi heel sneakers [X] [YouTube]
+* Hold on im comming [E] [YouTube]
+* I feel good (i got you) [C] [YouTube]<https://www.youtube.com/watch?v=U5TqIdff_DQ>
+* Its a blues world [G] [YouTube]
+* Just a little bit [G] [YouTube]
+* Lickin stick [A] [YouTube]
+* Lucille [A] [YouTube]
+* Luthers blues [A] [YouTube]
+* Night time is the right time [Bb] [YouTube]
+* Please please please [F] [YouTube]
+* Same old blues [X] [YouTube]
+* Sex machine (get up) [D] [YouTube]
+* Soul fixing man [A] [YouTube]
+* Soul man [X] [YouTube]
+* Stand by me [G] [YouTube]
+* Sweet sixteen [X] [YouTube]
+* The ghetto [Am] [YouTube]
+* Them changes [E] [YouTube]
+* This is a mans world [C] [YouTube]
+* Thrill is gone [Am] [YouTube]
+* Try me [C] [YouTube]
+* Walking the dog [C] [YouTube]
+* When something is wrong with my baby [B] [YouTube]
+* Why i sing the blues [A] [YouTube]
+* Woman across the river [Bb] [YouTube]
 [Back to top](#overview)
 
 ## Bernd
-* Black magic woman [Am]
-* Hydramatic woman [D]
-* I cant be satisfied [E]
-* Perpetual blues machine [A]
-* Real mother for you [F]
-
+* Black magic woman [Am] [YouTube]
+* Hydramatic woman [D] [YouTube]
+* I cant be satisfied [E] [YouTube]
+* Perpetual blues machine [A] [YouTube]
+* Real mother for you [F] [YouTube]
 [Back to top](#overview)
 
 ## James
 
-* Aint no sunshine [Am]
-* Bad moon rising [C]
-* Born under a bad sign [C#] 
-* Bring it home [G]
-* Cold shot [Am]
-* Do it again [Em]
-* Dock of the bay [G]
-* Dont cry no more [C]
-* Fly like an eagle [Am]
-* Higher and higher [B]
-* I can see clearly now [C]
-* Inner city blues [Em]
-* Just kissed my baby [G]
-* Just the two of us [E]
-* Knocking on heavens door [G]
-* Last two dollars [Am]
-* Last two dollars [G] 
-* Lovely day [E]
-* On broadway [Ab]
-* One way out [G]
-* Papa was a rolling stone [Am]
-* Real mother for you [F]
-* Rock me baby [G]
-* Stand by me [G]
-* Superstition [D]
-* Sweet home chicago [C]
-* Tennessee whiskey [A]
-* Thrill is gone [Am]
-* Use me [E]
-* Whats going on [E]
+* Aint no sunshine [Am] [YouTube]
+* Bad moon rising [C] [YouTube]
+* Born under a bad sign [C#] [YouTube]
+* Bring it home [G] [YouTube] 
+* Cold shot [Am] [YouTube]
+* Do it again [Em] [YouTube]
+* Dock of the bay [G] [YouTube]
+* Dont cry no more [C] [YouTube]
+* Fly like an eagle [Am] [YouTube]
+* Higher and higher [B] [YouTube]
+* I can see clearly now [C] [YouTube]
+* Inner city blues [Em] [YouTube]
+* Just kissed my baby [G] [YouTube]
+* Just the two of us [E] [YouTube]
+* Knocking on heavens door [G] [YouTube]
+* Last two dollars [Am] [YouTube]
+* Last two dollars [G] [YouTube]
+* Lovely day [E] [YouTube]
+* On broadway [Ab] [YouTube]
+* One way out [G] [YouTube]
+* Papa was a rolling stone [Am] [YouTube]
+* Real mother for you [F] [YouTube]
+* Rock me baby [G] [YouTube]
+* Stand by me [G] [YouTube]
+* Superstition [D] [YouTube]
+* Sweet home chicago [C] [YouTube]
+* Tennessee whiskey [A] [YouTube]
+* Thrill is gone [Am] [YouTube]
+* Use me [E] [YouTube]
+* Whats going on [E] [YouTube]
 [Back to top](#overview)
 
 ## Butch
-* Another star [F#m]
-* Get down on it [Em]
-* Higher and higher [A]
-* I just called to say i love you [Db]
-* I shot the sheriff [Gm]
-* Just the two of us [F]
-* Kiss [A]
-* Knocking on heavens door [A]
-* Me and mrs jones [Eb]
-* No woman no cry [C]
-* Purple rain [Bb]
-* The thrill is Gone [Am]
-
+* Another star [F#m] [YouTube]
+* Get down on it [Em] [YouTube]
+* Higher and higher [A] [YouTube]
+* I just called to say i love you [Db] [YouTube]
+* I shot the sheriff [Gm] [YouTube]
+* Just the two of us [F] [YouTube]
+* Kiss [A] [YouTube]
+* Knocking on heavens door [A] [YouTube]
+* Me and mrs jones [Eb] [YouTube]
+* No woman no cry [C] [YouTube]
+* Purple rain [Bb] [YouTube]
+* The thrill is Gone [Am] [YouTube]
 [Back to top](#overview)
 
 ## Tyrone
-* Stand by me [G]
-* The dock of the bay [G]
-* Use me [E]
-
+* Stand by me [G] [YouTube]
+* The dock of the bay [G] [YouTube]
+* Use me [E] [YouTube]
 [Back to top](#overview)
-## Mike
-* Dance the night away [E]
-* Have you ever seen the rain [Bb]
-* The weight [A]
 
+## Mike
+* Dance the night away [E] [YouTube]
+* Have you ever seen the rain [Bb] [YouTube]
+* The weight [A] [YouTube]
 [Back to top](#overview)
