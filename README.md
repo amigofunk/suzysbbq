@@ -117,7 +117,7 @@
 * Mercy mercy mercy [Bb] [YouTube](https://www.youtube.com/watch?v=y7FFLYXEOqA)
 * Mo better blues [G] [YouTube](https://www.youtube.com/watch?v=xAdZk30NiQw)
 * Mr magic [C] [YouTube](https://www.youtube.com/watch?v=2Jvdy6khEmA)
-* Put it where you want it [C] [YouTube] (https://www.youtube.com/watch?v=oRddCqC-vD8) <https://www.youtube.com/watch?v=zPlSV5WmBfA>
+* Put it where you want it [C] [YouTube](https://www.youtube.com/watch?v=oRddCqC-vD8)
 * The chicken [Bb] [YouTube](https://www.youtube.com/watch?v=yzpzYbkHXxI)
 * The ghetto [Am] [YouTube](https://www.youtube.com/watch?v=9Npl_oiJQ80)
 * Tighten up [E] [YouTube](https://www.youtube.com/watch?v=Wro3bqi4Eb8)
