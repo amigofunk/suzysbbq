@@ -112,7 +112,7 @@
 ## Instrumental
 * All blues [G] [YouTube]
 * Back at the chicken shack [X] [YouTube](https://www.youtube.com/watch?v=3Q1GFRbeMMk)
-* Chitlins con carne [C] [YouTube](https://www.youtube.com/watch?v=3Q1GFRbeMMk)
+* Chitlins con carne [C] [YouTube](https://www.youtube.com/watch?v=ylGjvwXV3HA)
 * Cissy strut [C] [YouTube](https://www.youtube.com/watch?v=yBt-eXuog3k)
 * Mercy mercy mercy [Bb] [YouTube](https://www.youtube.com/watch?v=y7FFLYXEOqA)
 * Mo better blues [G] [YouTube](https://www.youtube.com/watch?v=xAdZk30NiQw)
