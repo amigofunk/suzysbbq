@@ -111,18 +111,18 @@
 
 ## Instrumental
 * All blues [G] [YouTube]
-* Back at the chicken shack [X] [YouTube]
-* Chitlins con carne [C] [YouTube]
-* Cissy strut [C] [YouTube]
-* Mercy mercy mercy [Bb] [YouTube]
-* Mo better blues [G] [YouTube]
-* Mr magic [C] [YouTube]
-* Put it where you want it [C] [YouTube]
-* The chicken [Bb] [YouTube]
-* The ghetto [Am] [YouTube]
-* Tighten up [E] [YouTube]
-* Turtle walk [C] [YouTube]
-* Way back home [C] [YouTube]
+* Back at the chicken shack [X] [YouTube](https://www.youtube.com/watch?v=3Q1GFRbeMMk)
+* Chitlins con carne [C] [YouTube](https://www.youtube.com/watch?v=3Q1GFRbeMMk)
+* Cissy strut [C] [YouTube](https://www.youtube.com/watch?v=yBt-eXuog3k)
+* Mercy mercy mercy [Bb] [YouTube](https://www.youtube.com/watch?v=y7FFLYXEOqA)
+* Mo better blues [G] [YouTube](https://www.youtube.com/watch?v=xAdZk30NiQw)
+* Mr magic [C] [YouTube](https://www.youtube.com/watch?v=2Jvdy6khEmA)
+* Put it where you want it [C] [YouTube] (https://www.youtube.com/watch?v=oRddCqC-vD8) <https://www.youtube.com/watch?v=zPlSV5WmBfA>
+* The chicken [Bb] [YouTube](https://www.youtube.com/watch?v=yzpzYbkHXxI)
+* The ghetto [Am] [YouTube](https://www.youtube.com/watch?v=9Npl_oiJQ80)
+* Tighten up [E] [YouTube](https://www.youtube.com/watch?v=Wro3bqi4Eb8)
+* Turtle walk [C] [YouTube](https://www.youtube.com/watch?v=nVpIoYuI2Yw)
+* Way back home [C] [YouTube](https://www.youtube.com/watch?v=nK_u-4YR_aw)
 
 [Back to top](#overview)
 
