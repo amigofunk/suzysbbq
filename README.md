@@ -1,13 +1,4 @@
-# Wednesdays at Little Suzys BBQ 
-
-# Overview
-* [Gig A](#gig-a)
-* [Gig B](#gig-b)
-* [Gig C](#gig-c)
-* [Gig D](#gig-d)
-* [Instrumental](#instrumental)
-* [Tommie](#tommie)
-* [Bernd](#bernd)
+# WednesdayBernd](#bernd)
 * [James](#james)
 * [Butch](#butch) 
 * [Tyrone](#tyrone) 
@@ -91,7 +82,7 @@
 * Try me [C]
 * Brand new bag [Eb]
 * Cold sweat [D]
-* Sweet 16
+* Sweet sixteen 
 * All blues [G]
 * --[BREAK]--
 * Instrumental - Turtle walk?
@@ -114,6 +105,7 @@
 * Back at the chicken shack [X] [YouTube](https://www.youtube.com/watch?v=3Q1GFRbeMMk)
 * Chitlins con carne [C] [YouTube](https://www.youtube.com/watch?v=ylGjvwXV3HA)
 * Cissy strut [C] [YouTube](https://www.youtube.com/watch?v=yBt-eXuog3k)
+* Green onions [F] [YouTube]
 * Mercy mercy mercy [Bb] [YouTube](https://www.youtube.com/watch?v=y7FFLYXEOqA)
 * Mo better blues [G] [YouTube](https://www.youtube.com/watch?v=xAdZk30NiQw)
 * Mr magic [C] [YouTube](https://www.youtube.com/watch?v=2Jvdy6khEmA)
@@ -147,6 +139,7 @@
 * Lickin stick [A] [YouTube]
 * Lucille [A] [YouTube](https://www.youtube.com/watch?v=yjZtZye7aeI)
 * Luthers blues [A] [YouTube]
+* Mustang Sally [C] [YouTube]
 * Next time you see me [A] [YouTube]
 * Night time is the right time [Bb] [YouTube](https://www.youtube.com/watch?v=BTruv-lVoLk)
 * Please please please [F] [YouTube]
@@ -158,6 +151,7 @@
 * Summertime [Am] [YouTube]
 * Sweet home chicago [C] [YouTube]
 * Sweet sixteen [Bb] [YouTube]
+* Thank you for letting me be myself again [G] [YouTube]
 * The ghetto [Am] [YouTube]
 * Them changes [E] [YouTube]
 * This is a mans world [C] [YouTube](https://www.youtube.com/watch?v=wd1-HM234DE)
@@ -195,13 +189,16 @@
 * Make up your mind [A] [YouTube]
 * No younger [A-] [YouTube]
 * Perpetual blues machine [A] [YouTube]
+* Phone booth [Am] [YouTube]
 * Rainin in my heart  [G] [YouTube]
 * Read way back [A] [YouTube]
 * Real mother for you [F] [YouTube]
 * Rock this house [G] [YouTube]
 * Route sixtysix [G] [YouTube]
-* Sches tuff [E] [YouTube]
 * Shes sweet [E] [YouTube]
+* Shes tuff [E] [YouTube]
+* Six three four five seven eight nine [X] [YouTube]
+* Snatch it back and hold it [X] [YouTube]
 * Sugar coated love [E] [YouTube]
 * Summertime [Dm] [YouTubel]
 * T bone shuffle [G] [YouTube]
@@ -209,7 +206,9 @@
 * Trouble no more [E] [YouTube]
 * Wait on time [A] [YouTube]
 * Whipping post [E-] [YouTube]
+* Yellow moon [X] [YouTube]
 * You cant judge a book [E] [YouTube]
+* You dont know what love ist [X] [YouTube]
 * Youre humbugging me [E] [YouTube]
 
 [Back to top](#overview)
@@ -230,8 +229,7 @@
 * Just kissed my baby [G] [YouTube]
 * Just the two of us [E] [YouTube]
 * Knocking on heavens door [G] [YouTube]
-* Last two dollars [Am] [YouTube]
-* Last two dollars [G] [YouTube]
+* Last two dollars [X] [YouTube]
 * Lovely day [E] [YouTube]
 * On broadway [Ab] [YouTube]
 * One way out [G] [YouTube]
@@ -271,9 +269,18 @@
 
 [Back to top](#overview)
 
+## Marcel
+* Aint no love in the heart of the city [Am] [YouTube]
+* Lets straighten it out [F] [YouTube]
+* Nothing can change my love [A] [YouTube]
+
+[Back to top](#overview)
+
 ## Mike
 * Dance the night away [E] [YouTube]
 * Have you ever seen the rain [Bb] [YouTube]
+* Johnny be goode [E] [YouTube]
 * The weight [A] [YouTube]
+* Tulsa time [E] [YouTube]
 
 [Back to top](#overview)
