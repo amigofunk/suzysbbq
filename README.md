@@ -101,7 +101,7 @@
 # All songs
 
 ## Instrumental
-* All blues [G] [YouTube]
+* All blues [G] [YouTube]()
 * Back at the chicken shack [X] [YouTube](https://www.youtube.com/watch?v=3Q1GFRbeMMk)
 * Chitlins con carne [C] [YouTube](https://www.youtube.com/watch?v=ylGjvwXV3HA)
 * Cissy strut [C] [YouTube](https://www.youtube.com/watch?v=yBt-eXuog3k)
@@ -122,165 +122,165 @@
 * Aint nobodys business [G] [YouTube](https://www.youtube.com/watch?v=EjDsaMUEhGA) 
 * All blues [G] [YouTube](https://www.youtube.com/watch?v=CJVPOXbsRTE)
 * Baby can i change my mind [B] [YouTube](https://www.youtube.com/watch?v=KBEaDbMNiLE)
-* Brand new bag [Eb] [YouTube]
-* Breakdown [D] [YouTube]
-* Cold sweat [D] [YouTube]
-* Diggin on james brown [X] [YouTube]
-* Doing it to death [D] [YouTube]
-* Dont cry no more [C] [YouTube]
+* Brand new bag [Eb] [YouTube]()
+* Breakdown [D] [YouTube]()
+* Cold sweat [D] [YouTube]()
+* Diggin on james brown [X] [YouTube]()
+* Doing it to death [D] [YouTube]()
+* Dont cry no more [C] [YouTube]()
 * Dont let the green grass fool you [C] [YouTube](https://www.youtube.com/watch?v=-xEOfdqGCmY)
 * Funky broadway [E] [YouTube](https://www.youtube.com/watch?v=8p7y293BdtI)
 * Georgia on my mind [F] [YouTube](https://www.youtube.com/watch?v=kVFuGIXUPe0)
-* Hi heel sneakers [G] [YouTube]
+* Hi heel sneakers [G] [YouTube]()
 * Hold on im comming [E] [YouTube](https://www.youtube.com/watch?v=6JElrEbAcwY)
 * I feel good (i got you) [C] [YouTube](https://www.youtube.com/watch?v=U5TqIdff_DQ)
 * Its a blues world [G] [YouTube](https://www.youtube.com/watch?v=c8UbvbyhTTo)
-* Just a little bit [Bb] [YouTube]
-* Lickin stick [A] [YouTube]
+* Just a little bit [Bb] [YouTube]()
+* Lickin stick [A] [YouTube]()
 * Lucille [A] [YouTube](https://www.youtube.com/watch?v=yjZtZye7aeI)
-* Luthers blues [A] [YouTube]
-* Mustang Sally [C] [YouTube]
-* Next time you see me [A] [YouTube]
+* Luthers blues [A] [YouTube]()
+* Mustang Sally [C] [YouTube]()
+* Next time you see me [A] [YouTube]()
 * Night time is the right time [Bb] [YouTube](https://www.youtube.com/watch?v=BTruv-lVoLk)
-* Please please please [F] [YouTube]
-* Same old blues [D] [YouTube]
+* Please please please [F] [YouTube]()
+* Same old blues [D] [YouTube]()
 * Sex machine (get up) [D] [YouTube](https://www.youtube.com/watch?v=JOD-M7WZkZQ)
 * Soul fixing man [A] [YouTube](https://www.youtube.com/watch?v=V1oz3QLa5Tw)
-* Soul man [X] [YouTube]
+* Soul man [X] [YouTube]()
 * Stand by me [G] [YouTube](https://www.youtube.com/watch?v=hwZNL7QVJjE)
-* Summertime [Am] [YouTube]
-* Sweet home chicago [C] [YouTube]
-* Sweet sixteen [Bb] [YouTube]
-* Thank you for letting me be myself again [G] [YouTube]
-* The ghetto [Am] [YouTube]
-* Them changes [E] [YouTube]
+* Summertime [Am] [YouTube]()
+* Sweet home chicago [C] [YouTube]()
+* Sweet sixteen [Bb] [YouTube]()
+* Thank you for letting me be myself again [G] [YouTube]()
+* The ghetto [Am] [YouTube]()
+* Them changes [E] [YouTube]()
 * This is a mans world [C] [YouTube](https://www.youtube.com/watch?v=wd1-HM234DE)
 * Thrill is gone [Am] [YouTube](https://www.youtube.com/watch?v=kpC69qIe02E)
-* Try me [C] [YouTube]
+* Try me [C] [YouTube]()
 * Walking the dog [A] [YouTube](https://www.youtube.com/watch?v=7AmJBM9HbWE)
 * When something is wrong with my baby [B] [YouTube](https://www.youtube.com/watch?v=Dv5HLB2lNaE)
-* Why i sing the blues [A] [YouTube]
+* Why i sing the blues [A] [YouTube]()
 * Woman across the river [Bb] [YouTube](https://www.youtube.com/watch?v=YC1sTJvOzWY)
 
 [Back to top](#overview)
 
 ## Bernd
-* Black magic woman [Am] [YouTube]
-* Cant hold on much longer [E] [YouTube]
-* Cold cold feeling [G-] [YouTube]
-* Drown in my own tears [G] [YouTube]
-* Hi heel sneakers [E] [YouTube]
-* Hydramatic woman [D] [YouTube]
-* I cant be satisfied [E] [YouTube]
-* I feel so bad [E] [YouTube]
-* I feel so good [E] [YouTube]
-* I hear you knocking [E] [YouTube]
-* I need your love so bad [G] [YouTube]
-* Im trying [G] [YouTube]
-* Its a man down there [E] [YouTube]
-* Keep on loving me [G-] [YouTube]
-* Kiddio [A] [YouTube]
-* Kidney stew [G] [YouTube]
-* Kiss [A] [YouTube]
-* Lets work together [G] [YouTube]
-* Life is like that [G] [YouTube]
-* Little by little [E] [YouTube]
-* Lollipop mama [G] [YouTube]
-* Make up your mind [A] [YouTube]
-* No younger [A-] [YouTube]
-* Perpetual blues machine [A] [YouTube]
-* Phone booth [Am] [YouTube]
-* Rainin in my heart  [G] [YouTube]
-* Read way back [A] [YouTube]
-* Real mother for you [F] [YouTube]
-* Rock this house [G] [YouTube]
-* Route sixtysix [G] [YouTube]
-* Shes sweet [E] [YouTube]
-* Shes tuff [E] [YouTube]
-* Six three four five seven eight nine [X] [YouTube]
-* Snatch it back and hold it [X] [YouTube]
-* Sugar coated love [E] [YouTube]
-* Summertime [Dm] [YouTubel]
-* T bone shuffle [G] [YouTube]
-* Think [E] [YouTube]
-* Trouble no more [E] [YouTube]
-* Wait on time [A] [YouTube]
-* Whipping post [E-] [YouTube]
-* Yellow moon [X] [YouTube]
-* You cant judge a book [E] [YouTube]
-* You dont know what love ist [X] [YouTube]
-* Youre humbugging me [E] [YouTube]
+* Black magic woman [Am] [YouTube]()
+* Cant hold on much longer [E] [YouTube]()
+* Cold cold feeling [G-] [YouTube]()
+* Drown in my own tears [G] [YouTube]()
+* Hi heel sneakers [E] [YouTube]()
+* Hydramatic woman [D] [YouTube]()
+* I cant be satisfied [E] [YouTube]()
+* I feel so bad [E] [YouTube]()
+* I feel so good [E] [YouTube]()
+* I hear you knocking [E] [YouTube]()
+* I need your love so bad [G] [YouTube]()
+* Im trying [G] [YouTube]()
+* Its a man down there [E] [YouTube]()
+* Keep on loving me [G-] [YouTube]()
+* Kiddio [A] [YouTube]()
+* Kidney stew [G] [YouTube]()
+* Kiss [A] [YouTube]()
+* Lets work together [G] [YouTube]()
+* Life is like that [G] [YouTube]()
+* Little by little [E] [YouTube]()
+* Lollipop mama [G] [YouTube]()
+* Make up your mind [A] [YouTube]()
+* No younger [A-] [YouTube]()
+* Perpetual blues machine [A] [YouTube]()
+* Phone booth [Am] [YouTube]()
+* Rainin in my heart  [G] [YouTube]()
+* Read way back [A] [YouTube]()
+* Real mother for you [F] [YouTube]()
+* Rock this house [G] [YouTube]()
+* Route sixtysix [G] [YouTube]()
+* Shes sweet [E] [YouTube]()
+* Shes tuff [E] [YouTube]()
+* Six three four five seven eight nine [X] [YouTube]()
+* Snatch it back and hold it [X] [YouTube]()
+* Sugar coated love [E] [YouTube]()
+* Summertime [Dm] [YouTubel]()
+* T bone shuffle [G] [YouTube]()
+* Think [E] [YouTube]()
+* Trouble no more [E] [YouTube]()
+* Wait on time [A] [YouTube]()
+* Whipping post [E-] [YouTube]()
+* Yellow moon [X] [YouTube]()
+* You cant judge a book [E] [YouTube]()
+* You dont know what love ist [X] [YouTube]()
+* Youre humbugging me [E] [YouTube]()
 
 [Back to top](#overview)
 
 ## James
-* Aint no sunshine [Am] [YouTube]
-* Bad moon rising [C] [YouTube]
-* Born under a bad sign [C#] [YouTube]
-* Bring it home [G] [YouTube] 
-* Cold shot [Am] [YouTube]
-* Do it again [Em] [YouTube]
-* Dock of the bay [G] [YouTube]
-* Dont cry no more [C] [YouTube]
-* Fly like an eagle [Am] [YouTube]
-* Higher and higher [B] [YouTube]
-* I can see clearly now [C] [YouTube]
-* Inner city blues [Em] [YouTube]
-* Just kissed my baby [G] [YouTube]
-* Just the two of us [E] [YouTube]
-* Knocking on heavens door [G] [YouTube]
-* Last two dollars [X] [YouTube]
-* Lovely day [E] [YouTube]
-* On broadway [Ab] [YouTube]
-* One way out [G] [YouTube]
-* Papa was a rolling stone [Am] [YouTube]
-* Real mother for you [F] [YouTube]
-* Rock me baby [G] [YouTube]
-* Stand by me [G] [YouTube]
-* Superstition [D] [YouTube]
-* Sweet home chicago [C] [YouTube]
-* Tennessee whiskey [A] [YouTube]
-* Thrill is gone [Am] [YouTube]
-* Use me [E] [YouTube]
-* Whats going on [E] [YouTube]
+* Aint no sunshine [Am] [YouTube]()
+* Bad moon rising [C] [YouTube]()
+* Born under a bad sign [C#] [YouTube]()
+* Bring it home [G] [YouTube]()
+* Cold shot [Am] [YouTube]()
+* Do it again [Em] [YouTube]()
+* Dock of the bay [G] [YouTube]()
+* Dont cry no more [C] [YouTube]()
+* Fly like an eagle [Am] [YouTube]()
+* Higher and higher [B] [YouTube]()
+* I can see clearly now [C] [YouTube]()
+* Inner city blues [Em] [YouTube]()
+* Just kissed my baby [G] [YouTube]()
+* Just the two of us [E] [YouTube]()
+* Knocking on heavens door [G] [YouTube]()
+* Last two dollars [X] [YouTube]()
+* Lovely day [E] [YouTube]()
+* On broadway [Ab] [YouTube]()
+* One way out [G] [YouTube]()
+* Papa was a rolling stone [Am] [YouTube]()
+* Real mother for you [F] [YouTube]()
+* Rock me baby [G] [YouTube]()
+* Stand by me [G] [YouTube]()
+* Superstition [D] [YouTube]()
+* Sweet home chicago [C] [YouTube]()
+* Tennessee whiskey [A] [YouTube]()
+* Thrill is gone [Am] [YouTube]()
+* Use me [E] [YouTube]()
+* Whats going on [E] [YouTube]()
 
 [Back to top](#overview)
 
 ## Butch
-* Another star [F#m] [YouTube]
-* Get down on it [Em] [YouTube]
-* Higher and higher [A] [YouTube]
-* I just called to say i love you [Db] [YouTube]
-* I shot the sheriff [Gm] [YouTube]
-* Just the two of us [F] [YouTube]
-* Kiss [A] [YouTube]
-* Knocking on heavens door [A] [YouTube]
-* Me and mrs jones [Eb] [YouTube]
-* No woman no cry [C] [YouTube]
-* Purple rain [Bb] [YouTube]
-* The thrill is Gone [Am] [YouTube]
+* Another star [F#m] [YouTube]()
+* Get down on it [Em] [YouTube]()
+* Higher and higher [A] [YouTube]()
+* I just called to say i love you [Db] [YouTube]()
+* I shot the sheriff [Gm] [YouTube]()
+* Just the two of us [F] [YouTube]()
+* Kiss [A] [YouTube]()
+* Knocking on heavens door [A] [YouTube]()
+* Me and mrs jones [Eb] [YouTube]()
+* No woman no cry [C] [YouTube]()
+* Purple rain [Bb] [YouTube]()
+* The thrill is Gone [Am] [YouTube]()
 
 [Back to top](#overview)
 
 ## Tyrone
-* Stand by me [G] [YouTube]
-* The dock of the bay [G] [YouTube]
-* Use me [E] [YouTube]
+* Stand by me [G] [YouTube]()
+* The dock of the bay [G] [YouTube]()
+* Use me [E] [YouTube]()
 
 [Back to top](#overview)
 
 ## Marcel
-* Aint no love in the heart of the city [Am] [YouTube]
-* Lets straighten it out [F] [YouTube]
-* Nothing can change my love [A] [YouTube]
+* Aint no love in the heart of the city [Am] [YouTube]()
+* Lets straighten it out [F] [YouTube]()
+* Nothing can change my love [A] [YouTube]()
 
 [Back to top](#overview)
 
 ## Mike
-* Dance the night away [E] [YouTube]
-* Have you ever seen the rain [Bb] [YouTube]
-* Johnny be goode [E] [YouTube]
-* The weight [A] [YouTube]
-* Tulsa time [E] [YouTube]
+* Dance the night away [E] [YouTube]()
+* Have you ever seen the rain [Bb] [YouTube]()
+* Johnny be goode [E] [YouTube]()
+* The weight [A] [YouTube]()
+* Tulsa time [E] [YouTube]()
 
 [Back to top](#overview)
