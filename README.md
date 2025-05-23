@@ -111,11 +111,11 @@
 # All songs
 
 ## Instrumental
-* All blues [G] [YouTube]()
-* Back at the chicken shack [X] [YouTube](https://www.youtube.com/watch?v=3Q1GFRbeMMk)
+* All blues (funk version) [G] [YouTube](https://www.youtube.com/watch?v=cyABoZwmzzM)
+* Back at the chicken shack [G] [YouTube](https://www.youtube.com/watch?v=3Q1GFRbeMMk)
 * Chitlins con carne [C] [YouTube](https://www.youtube.com/watch?v=ylGjvwXV3HA)
 * Cissy strut [C] [YouTube](https://www.youtube.com/watch?v=yBt-eXuog3k)
-* Green onions [F] [YouTube]
+* Green onions [F] [YouTube](https://www.youtube.com/watch?v=0oox9bJaGJ8)
 * Mercy mercy mercy [Bb] [YouTube](https://www.youtube.com/watch?v=y7FFLYXEOqA)
 * Mo better blues [G] [YouTube](https://www.youtube.com/watch?v=xAdZk30NiQw)
 * Mr magic [C] [YouTube](https://www.youtube.com/watch?v=2Jvdy6khEmA)
