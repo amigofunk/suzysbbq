@@ -1,7 +1,17 @@
-# WednesdayBernd](#bernd)
+# Wednesdays at Little Suzys BBQ 
+
+# Overview
+* [Gig A](#gig-a)
+* [Gig B](#gig-b)
+* [Gig C](#gig-c)
+* [Gig D](#gig-d)
+* [Instrumental](#instrumental)
+* [Tommie](#tommie)
+* [Bernd](#bernd)
 * [James](#james)
 * [Butch](#butch) 
 * [Tyrone](#tyrone) 
+* [Marcel](#marcel) 
 * [Mike](#mike) 
 
 # Gig lists
